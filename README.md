@@ -15,3 +15,4 @@ git tag -d "tag name"
 To delete a tag remotely:
 git push origin --delete "tag name"
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png)
